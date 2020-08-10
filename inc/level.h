@@ -1,9 +1,4 @@
-//
-// Created by Rostyslav Druzhchenko on 06.05.2020.
-//
-
 #pragma once
-
 #include <hero.h>
 #include "header.h"
 

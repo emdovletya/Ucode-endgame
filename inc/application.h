@@ -1,9 +1,4 @@
-//
-// Created by Rostyslav Druzhchenko on 04.05.2020.
-//
-
 #pragma once
-
 #include <sdl_all.h>
 
 typedef struct Application {

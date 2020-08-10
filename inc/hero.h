@@ -1,9 +1,4 @@
-//
-// Created by Rostyslav Druzhchenko on 05.05.2020.
-//
-
 #pragma once
-
 #include <stdbool.h>
 #include <sdl_all.h>
 
