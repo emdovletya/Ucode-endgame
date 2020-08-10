@@ -1,9 +1,4 @@
-//
-// Created by Rostyslav Druzhchenko on 22.04.2020.
-//
-
 #include "list.h"
-
 #include <stdlib.h>
 
 void mx_pop_index(t_list **list, int index) {

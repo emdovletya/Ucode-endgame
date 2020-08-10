@@ -1,7 +1,3 @@
-//
-// Created by Rostyslav Druzhchenko on 04.05.2020.
-//
-
 #include <fcntl.h>
 #include <unistd.h>
 #include <string.h>

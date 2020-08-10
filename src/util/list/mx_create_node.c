@@ -1,5 +1,4 @@
 #include "list.h"
-
 #include <stdlib.h>
 
 t_list *mx_create_node(void *data) {

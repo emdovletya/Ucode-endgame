@@ -1,5 +1,4 @@
 #include "list.h"
-
 #include <stdlib.h>
 
 void mx_pop_back(t_list **list) {

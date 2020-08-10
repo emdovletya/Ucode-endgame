@@ -1,9 +1,4 @@
-//
-// Created by Rostyslav Druzhchenko on 23.04.2020.
-//
-
 #include "list.h"
-
 #include <stdbool.h>
 
 int mx_list_size(t_list *list);

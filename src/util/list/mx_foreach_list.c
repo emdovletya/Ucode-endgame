@@ -1,7 +1,3 @@
-//
-// Created by Rostyslav Druzhchenko on 22.04.2020.
-//
-
 #include "list.h"
 
 void mx_foreach_list(t_list *list, void(*f)(t_list *node)) {
