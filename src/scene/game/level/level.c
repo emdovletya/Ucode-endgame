@@ -1,7 +1,3 @@
-//
-// Created by Rostyslav Druzhchenko on 06.05.2020.
-//
-
 #include <level.h>
 #include <stdlib.h>
 

@@ -1,6 +1,3 @@
-//
-// Created by User on 04.05.2020.
-//
 #include "header.h"
 
 void load_music(t_entity *player) {

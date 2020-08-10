@@ -1,7 +1,3 @@
-//
-// Created by Rostyslav Druzhchenko on 04.05.2020.
-//
-
 #include <sdl_all.h>
 #include <header.h>
 
